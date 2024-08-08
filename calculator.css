@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+button{
+    height:30px;
+    width: 30px;
+    color: aliceblue;
+    background-color:darkslategray;
+    border: 0px;
+    border-radius: 50%;
+    margin:2px;
+    text-align: center;
+}
+.row1{
+    margin-top: 19px;
+}
+
+input{
+    margin-top : 5px;
+    background-color: black;
+    color:aliceblue;
+    border: 0cap;
+    text-align: end;
+  width: 133px;
+  height:22px;
+  margin-left: 3px;
+}
+.main{
+    background-color: rgb(110, 133, 153);
+    height: 250px;
+padding-top: 29px;
+padding-left: 35px;
+width: 180px;
+box-shadow: 12px 15px 10px rgb(134, 134, 134);
+border-radius: 30px;
+    
+
+}
+section{
+    height:625px;
+    width:1350px;
+    background-image: url(download.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
